@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "test-package--dee-dee-g-1276351:toggle"
   },
-  "repository": "https://github.com/atom/test-package--dee-dee-g-1276351",
+  "repository": "https://github.com/DeeDeeG/test-package--dee-dee-g-1276351",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
