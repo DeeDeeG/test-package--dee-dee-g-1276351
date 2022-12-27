@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle test-package--dee-dee-g-1276351'
+      'command': 'test-package--dee-dee-g-1276351:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'test-package--dee-dee-g-1276351'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'test-package--dee-dee-g-1276351:toggle'
+        }
+      ]
+    ]
+  }
+]
